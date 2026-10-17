@@ -1,0 +1,6 @@
+,sepal length (cm),sepal length (cm),sepal width (cm),sepal width (cm),petal length (cm),petal length (cm),petal width (cm),petal width (cm)
+,mean,std,mean,std,mean,std,mean,std
+species,,,,,,,,
+setosa,5.01,0.35,3.43,0.38,1.46,0.17,0.25,0.11
+versicolor,5.94,0.52,2.77,0.31,4.26,0.47,1.33,0.2
+virginica,6.59,0.64,2.97,0.32,5.55,0.55,2.03,0.27
